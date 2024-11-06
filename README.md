@@ -1,5 +1,5 @@
 
-# 1. Algoritma Program Bilangan Random (latihan1-P7.py)
+# 1. Algoritma Program Bilangan Random (latihan1.py)
 ![Cuplikan layar 2024-11-06 102850](https://github.com/user-attachments/assets/21a11343-da3f-4749-b757-f5c3da73c909)
 
 ## Tujuan Program:
@@ -34,7 +34,7 @@ Menghasilkan sejumlah N bilangan acak yang nilainya lebih kecil dari 0.5
   
 
 
-# 2. Algoritma Program Hitung Laba (latihan2-P7.py)
+# 2. Algoritma Program Hitung Laba (latihan2baru.py)
 ![Cuplikan layar 2024-11-06 103019](https://github.com/user-attachments/assets/b44c67c0-9095-4b3e-a4e8-00839bae3d09)
 
 ## Tujuan Program:
